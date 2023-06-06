@@ -70,8 +70,9 @@ body{
 }
 
 .nav-home-style a:hover{
-    margin-left: 4px;
+    margin-left: 3px;
     transition-duration: 1s;
+    border-bottom: 2px solid black;
 }
 
 .main-home-style{
